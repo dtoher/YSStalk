@@ -1,5 +1,5 @@
 ---
-title: "A good talk?"
+title: "A good talk (is hard to find)?"
 date: "https://github.com/dtoher/YSStalk"
 author: "Dr Deirdre Toher: @dtoher"
 subtitle: "April 2022"
